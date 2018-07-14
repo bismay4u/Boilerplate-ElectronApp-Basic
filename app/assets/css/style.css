@@ -1,0 +1,9 @@
+.navbar-brand>img {
+    max-height: 100px;
+    margin-top: -45px;
+    float: left;
+}
+footer .logoimg {
+    max-height: 30px;
+    float: left;
+}
